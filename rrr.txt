@@ -1,0 +1,8 @@
+echo "comments demo "
+echo " two types of comments are three"
+echo " slc start"
+echo " this line is commented "
+echo " mlc started"
+<<cvakumar
+date
+cal
