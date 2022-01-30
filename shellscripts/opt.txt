@@ -1,0 +1,15 @@
+Sun Jan 30 01:01:55 UTC 2022
+adttion
+arops.sh
+arthimiticop.sh
+clargs.sh
+comments
+hello.sh
+ifcond.sh
+opt.txt
+read1.sh
+read2.sh
+read4.sh
+read5.sh
+string.sh
+user.sh

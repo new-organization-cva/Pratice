@@ -1,0 +1,14 @@
+a=20
+b=30
+c=4
+5
+then
+
+if [[( $a -gt $b )&& ( $a -gt $c )]]
+echo "$a is bigger than $b"
+elif [[( $b -gt $c )&& ( $b -gt $c )]]
+echo "$b is bigger than $a and $c"
+else 
+echo "$C is biggerthan $a and $a"
+
+fi
